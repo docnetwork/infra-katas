@@ -12,4 +12,4 @@ Places to look:
 - https://developer.hashicorp.com/terraform/tutorials/modules/module-object-attributes
 - https://github.com/gruntwork-io/terraform-training-solutions
 
-
+- https://github.com/ArieHein/terraform-train

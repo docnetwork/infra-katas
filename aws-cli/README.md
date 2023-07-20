@@ -3,6 +3,7 @@
 - https://www.freecodecamp.org/news/aws-cli-tutorial-install-configure-understand-resource-environment/
 - https://tutorialsdojo.com/working-with-aws-command-line-interface-cli/
 - https://www.golinuxcloud.com/aws-cli-tutorial/
+- https://catalog.us-east-1.prod.workshops.aws/workshops/79521eff-62b5-4792-a2e0-6dbb59d83f4a/en-US
 
 - boto3??
 
