@@ -3,6 +3,8 @@ Short, focused exercises that helps you learn to manage infrastructure through c
 
 ## Purpose
 
+https://en.wikipedia.org/wiki/Kata
+
 
 
  ## Places to look:
