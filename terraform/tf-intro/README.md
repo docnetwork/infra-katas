@@ -2,6 +2,7 @@
 
 Original Source: https://github.com/aclifton-pillar/terraform-kata
 
+## Goals
 This kata will get a first taste of Terraform by doing the following:
 
 * Download and install Terraform
@@ -10,8 +11,6 @@ This kata will get a first taste of Terraform by doing the following:
 * Apply the plan to providers to create a running configuration
 * Modify and apply the new configuration to the running infrastructure
 * Destroy the running infrastructure
-
-## Instructions
 
 When you complete this kata, you will know how to do the following:
 
@@ -23,6 +22,10 @@ You should be able to complete the kata from scratch, without Googling, in
 thirty minutes or less. This kata assumes you already have Docker and Virtualbox
 installed on your laptop.
 
+## Instructions
+
+The following sections are intended to be high level steps that should
+be followed in order.  These are not intended to be detailed step-by-step instructions but instead should lead you through the kata exercise.
 
 ### Setup Toolchain
 [Install Terraform](https://www.terraform.io/downloads.html)
