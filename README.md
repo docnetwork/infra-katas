@@ -12,7 +12,7 @@ My solution to the problem is to take inspiration from programming katas and cre
 - M : A template for creating katas is the repo and a layout that supports having katas for terraform, k8s, and aws. :heavy_check_mark: 
     - At least three examples of a kata for each of the three initial areas is created.
         - TF1: tf-intro :heavy_check_mark: 
-        - TF2:
+        - TF2: tf-import :heavy_check_mark: 
         - TF3:
         - AWS1:
         - AWS2:

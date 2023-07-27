@@ -1,4 +1,10 @@
-Ideas:
+# Terraform Katas
+
+- tf-intro: A basic introduction to terraform
+- tf-import: Practice importing existing resources into your terraform state
+
+
+# Additional Ideas
 
 - kata that builds a basic infra for something like a webpage?
 - Map in a map exercise
