@@ -13,7 +13,7 @@ My solution to the problem is to take inspiration from programming katas and cre
     - At least three examples of a kata for each of the three initial areas is created.
         - TF1: tf-intro :heavy_check_mark: 
         - TF2: tf-import :heavy_check_mark: 
-        - TF3:
+        - TF3: cloudacademy series :heavy_check_mark: 
         - AWS1:
         - AWS2:
         - AWS3:
