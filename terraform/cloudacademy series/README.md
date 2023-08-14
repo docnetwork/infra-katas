@@ -9,7 +9,7 @@ The each directory contains a different AWS infrastructure provisioning exercise
 ### Exercise 1
 Create a simple AWS VPC spanning 2 AZs. Public subnets will be created, together with an internet gateway, and single route table. A t3.micro instance will be deployed and installed with Nginx for web serving. Security groups will be created and deployed to secure all network traffic between the various components.
 
-https://github.com/docnetwork/infra-katas/tree/main/terraform/exercise1
+https://github.com/docnetwork/infra-katas/tree/main/terraform/cloudacademy%20series/exercise1
 
 ![AWS Architecture](../../bin/images/AWS-VPC-Nginx.png)
 
@@ -17,14 +17,14 @@ https://github.com/docnetwork/infra-katas/tree/main/terraform/exercise1
 ### Exercise 2
 Create an advanced AWS VPC spanning 2 AZs with both public and private subnets. An internet gateway and NAT gateway will be deployed into it. Public and private route tables will be established. An application load balancer (ALB) will be installed which will load balance traffic across an auto scaling group (ASG) of Nginx web servers. Security groups will be created and deployed to secure all network traffic between the various components.
 
-https://github.com/docnetwork/infra-katas/tree/main/terraform/exercise2
+https://github.com/docnetwork/infra-katas/tree/main/terraform/cloudacademy%20series/exercise2
 
 ![AWS Architecture](../../bin/images/AWS-VPC-ASG-Nginx.png)
 
 ### Exercise 3
 Same AWS architecture as used in Exercise 2. This exercise demonstrates a different Terraform technique, using the Terraform "count" meta argument, for configuring the public and private subnets as well as their respective route tables.
 
-https://github.com/docnetwork/infra-katas/tree/main/terraform/exercise3
+https://github.com/docnetwork/infra-katas/tree/main/terraform/cloudacademy%20series/exercise3
 
 ![AWS Architecture](../../bin/images/AWS-VPC-ASG-Nginx.png)
 
@@ -37,7 +37,7 @@ The VPC will span 2 AZs, and have both public and private subnets. An internet g
 
 For demonstration purposes only - both the frontend and the API will be deployed to the same set of ASG instances - to reduce running costs.
 
-https://github.com/docnetwork/infra-katas/tree/main/terraform/exercise4
+https://github.com/docnetwork/infra-katas/tree/main/terraform/cloudacademy%20series/exercise4
 
 ![AWS Architecture](../../bin/images/AWS-VPC-FullApp.png)
 
@@ -50,10 +50,10 @@ The following EKS architecture will be provisioned using Terraform:
 
 ![EKS Cloud Native Application](../../bin/images/eks.png)
 
-https://github.com/docnetwork/infra-katas/tree/main/terraform/exercise5
+https://github.com/docnetwork/infra-katas/tree/main/terraform/cloudacademy%20series/exercise5
 
 ### Exercise 6
 
 An example of using the [Terraform CDK](https://developer.hashicorp.com/terraform/cdktf) and [TypeScript](https://www.typescriptlang.org/) to codify and provision new AWS infrastructure (VPC, Subnet, SecurityGroup, EC2 Instance).
 
-https://github.com/docnetwork/infra-katas/tree/main/terraform/exercise6
+https://github.com/docnetwork/infra-katas/tree/main/terraform/cloudacademy%20series/exercise6
